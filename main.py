@@ -366,7 +366,7 @@ def read_file():
         print(f"Error: The file 'tasks.txt' does not exist.")
         with open("tasks.txt", "w") as file:
             pass
-        print("Successfully created file: 'text.txt'\n")
+        print("Successfully created file: 'tasks.txt'\n")
 
 
 if __name__ == "__main__":
