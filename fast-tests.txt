@@ -1,0 +1,5 @@
+1|Finish report|Complete the quarterly financial report|high|in progress
+2|Team meeting|Weekly sync with the development team|medium|new
+3|Email client|Send project update to the client|low|done
+4|Code review|Review pull requests in the repo|high|new
+6|Finish project|Deployment|high|in progress
